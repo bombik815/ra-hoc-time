@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8v23em3rtyhxbsvh/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-hoc-time/branch/main)
 
 [Форматирование даты публикации](https://bombik815.github.io/ra-hoc-time/)
 
