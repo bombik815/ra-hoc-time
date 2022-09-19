@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-hoc-time/static/css/main.c162786f.css",
+    "main.js": "/ra-hoc-time/static/js/main.92d45097.js",
+    "index.html": "/ra-hoc-time/index.html",
+    "main.c162786f.css.map": "/ra-hoc-time/static/css/main.c162786f.css.map",
+    "main.92d45097.js.map": "/ra-hoc-time/static/js/main.92d45097.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c162786f.css",
+    "static/js/main.92d45097.js"
+  ]
+}
